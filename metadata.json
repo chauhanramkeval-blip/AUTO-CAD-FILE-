@@ -1,0 +1,6 @@
+{
+  "name": "CAD Viewer Boilerplate",
+  "description": "Cross-platform mobile CAD Viewer inspired by DWG FastView",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
